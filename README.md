@@ -19,4 +19,4 @@ YOLO3 动漫人脸识别 2019-1-19
 5. output = yolo.detect_image(img)
 6. output.show()
 ## 模型
-![](images\model.png)
+![](./images/model.png)
