@@ -12,6 +12,6 @@ YOLO3 动漫人脸识别 2019-1-19
 1. from predict import YOLO
 2. from PIL import Image
 3. yolo = YOLO()
-4. img = Image.open(jpgfile)
+4. img = Image.open(img_path)
 5. output = yolo.detect_image(img)
 6. output.show()
