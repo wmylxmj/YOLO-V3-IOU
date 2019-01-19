@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Anime_198.jpg</filename>
+	<path>D:\yolo\version_4\devkit\WMY002\JPEGImages\Anime_198.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1067</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anime face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>208</ymin>
+			<xmax>489</xmax>
+			<ymax>458</ymax>
+		</bndbox>
+	</object>
+</annotation>

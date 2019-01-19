@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Anime_153.jpg</filename>
+	<path>D:\VOC_2018_12_6\JPEGImages\Anime_153.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1083</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anime face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>880</xmin>
+			<ymin>95</ymin>
+			<xmax>1093</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

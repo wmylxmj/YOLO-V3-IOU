@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Anime_116.jpg</filename>
+	<path>D:\VOC_2018_12_6\JPEGImages\Anime_116.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anime face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>108</ymin>
+			<xmax>601</xmax>
+			<ymax>524</ymax>
+		</bndbox>
+	</object>
+</annotation>

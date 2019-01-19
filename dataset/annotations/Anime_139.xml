@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Anime_139.jpg</filename>
+	<path>D:\VOC_2018_12_6\JPEGImages\Anime_139.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1060</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anime face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>973</xmin>
+			<ymin>204</ymin>
+			<xmax>1180</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>anime face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1113</xmin>
+			<ymin>568</ymin>
+			<xmax>1188</xmax>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>

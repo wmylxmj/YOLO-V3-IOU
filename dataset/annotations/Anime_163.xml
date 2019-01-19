@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Anime_163.jpg</filename>
+	<path>D:\yolo\version_4\devkit\WMY002\JPEGImages\Anime_163.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1479</width>
+		<height>854</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anime face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1086</xmin>
+			<ymin>169</ymin>
+			<xmax>1277</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>
