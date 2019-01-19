@@ -1,0 +1,256 @@
+dataset/images/Anime_1.jpg 836,6,1158,333,0
+dataset/images/Anime_10.jpg 384,61,809,428,0
+dataset/images/Anime_100.jpg 109,112,732,592,0
+dataset/images/Anime_101.jpg 577,121,858,458,0
+dataset/images/Anime_102.jpg 1010,284,1450,647,0
+dataset/images/Anime_103.jpg 405,68,686,306,0 738,28,841,112,0 68,176,232,316,0 51,402,231,560,0
+dataset/images/Anime_108.jpg 404,110,636,355,0
+dataset/images/Anime_109.jpg 195,69,370,264,0 319,317,515,492,0
+dataset/images/Anime_111.jpg 313,164,670,480,0
+dataset/images/Anime_114.jpg 875,82,1171,486,0
+dataset/images/Anime_115.jpg 523,81,775,345,0
+dataset/images/Anime_116.jpg 104,108,601,524,0
+dataset/images/Anime_117.jpg 544,211,688,399,0
+dataset/images/Anime_118.jpg 207,102,397,274,0
+dataset/images/Anime_119.jpg 438,142,637,329,0
+dataset/images/Anime_12.jpg 753,113,992,370,0
+dataset/images/Anime_120.jpg 644,92,921,405,0
+dataset/images/Anime_121.jpg 190,141,558,495,0
+dataset/images/Anime_122.jpg 35,53,454,427,0
+dataset/images/Anime_123.jpg 235,113,508,411,0 640,330,861,587,0 909,418,1109,687,0 1144,532,1457,885,0
+dataset/images/Anime_124.jpg 534,55,788,282,0
+dataset/images/Anime_125.jpg 746,314,826,406,0
+dataset/images/Anime_126.jpg 689,181,880,342,0
+dataset/images/Anime_127.jpg 581,160,708,277,0
+dataset/images/Anime_128.jpg 962,45,1136,203,0
+dataset/images/Anime_129.jpg 911,44,1176,327,0
+dataset/images/Anime_130.jpg 449,157,634,319,0
+dataset/images/Anime_131.jpg 193,16,233,57,0 305,87,354,138,0 466,99,525,162,0 95,403,211,511,0 20,530,118,634,0 528,226,705,474,0 787,149,1018,384,0
+dataset/images/Anime_132.jpg 134,182,393,397,0
+dataset/images/Anime_133.jpg 556,89,888,361,0
+dataset/images/Anime_135.jpg 308,148,607,434,0 938,199,1235,477,0
+dataset/images/Anime_136.jpg 298,103,524,362,0
+dataset/images/Anime_138.jpg 77,112,385,352,0
+dataset/images/Anime_139.jpg 973,204,1180,444,0 1113,568,1188,637,0
+dataset/images/Anime_140.jpg 582,62,715,206,0
+dataset/images/Anime_141.jpg 250,110,469,291,0 544,69,733,234,0
+dataset/images/Anime_142.jpg 471,48,1028,544,0
+dataset/images/Anime_143.jpg 379,90,674,401,0
+dataset/images/Anime_144.jpg 615,69,918,380,0
+dataset/images/Anime_145.jpg 742,32,1053,303,0
+dataset/images/Anime_146.jpg 795,94,1094,400,0
+dataset/images/Anime_147.jpg 805,128,1107,455,0
+dataset/images/Anime_148.jpg 542,49,771,284,0
+dataset/images/Anime_149.jpg 816,118,1216,500,0
+dataset/images/Anime_150.jpg 565,59,745,245,0
+dataset/images/Anime_151.jpg 765,45,1207,458,0
+dataset/images/Anime_153.jpg 880,95,1093,317,0
+dataset/images/Anime_154.jpg 132,117,504,470,0
+dataset/images/Anime_155.jpg 506,248,695,424,0 856,182,1019,382,0
+dataset/images/Anime_156.jpg 1051,223,1206,390,0
+dataset/images/Anime_157.jpg 351,128,550,304,0
+dataset/images/Anime_158.jpg 325,228,528,407,0 630,173,821,364,0
+dataset/images/Anime_159.jpg 197,198,456,440,0
+dataset/images/Anime_16.jpg 499,169,732,405,0
+dataset/images/Anime_160.jpg 796,58,1032,271,0
+dataset/images/Anime_162.jpg 239,138,427,312,0
+dataset/images/Anime_163.jpg 1086,169,1277,395,0
+dataset/images/Anime_164.jpg 222,98,436,326,0
+dataset/images/Anime_165.jpg 976,113,1252,390,0
+dataset/images/Anime_168.jpg 241,120,507,413,0 609,200,856,448,0 924,243,1159,510,0 867,573,1111,843,0 179,558,494,812,0
+dataset/images/Anime_169.jpg 812,184,1141,501,0
+dataset/images/Anime_17.jpg 270,196,575,426,0
+dataset/images/Anime_170.jpg 338,239,647,503,0
+dataset/images/Anime_171.jpg 882,190,1105,448,0
+dataset/images/Anime_172.jpg 483,101,612,225,0
+dataset/images/Anime_173.jpg 324,141,569,360,0
+dataset/images/Anime_174.jpg 172,168,505,479,0
+dataset/images/Anime_175.jpg 320,223,452,389,0 560,148,690,311,0
+dataset/images/Anime_176.jpg 289,158,441,324,0
+dataset/images/Anime_177.jpg 566,110,686,228,0
+dataset/images/Anime_178.jpg 285,132,585,399,0
+dataset/images/Anime_179.jpg 676,83,815,241,0
+dataset/images/Anime_18.jpg 235,111,653,460,0
+dataset/images/Anime_180.jpg 388,532,588,729,0 917,154,1276,533,0
+dataset/images/Anime_181.jpg 689,166,805,271,0
+dataset/images/Anime_182.jpg 251,170,544,395,0
+dataset/images/Anime_183.jpg 967,130,1192,317,0
+dataset/images/Anime_185.jpg 495,81,648,238,0 953,135,1126,307,0
+dataset/images/Anime_186.jpg 326,63,670,310,0
+dataset/images/Anime_188.jpg 335,25,666,335,0
+dataset/images/Anime_189.jpg 519,78,669,252,0
+dataset/images/Anime_19.jpg 867,80,1133,358,0
+dataset/images/Anime_190.jpg 746,60,980,316,0
+dataset/images/Anime_191.jpg 584,195,998,587,0
+dataset/images/Anime_193.jpg 835,123,1045,334,0
+dataset/images/Anime_195.jpg 861,247,1055,447,0
+dataset/images/Anime_196.jpg 929,90,1089,238,0
+dataset/images/Anime_198.jpg 215,208,489,458,0
+dataset/images/Anime_199.jpg 58,102,316,320,0
+dataset/images/Anime_2.jpg 756,157,1019,422,0
+dataset/images/Anime_20.jpg 1014,241,1205,491,0
+dataset/images/Anime_200.jpg 172,136,452,370,0
+dataset/images/Anime_201.jpg 203,46,499,331,0
+dataset/images/Anime_202.jpg 514,135,707,325,0 870,107,1062,328,0
+dataset/images/Anime_203.jpg 100,78,435,400,0
+dataset/images/Anime_204.jpg 71,109,371,370,0
+dataset/images/Anime_205.jpg 255,86,540,322,0
+dataset/images/Anime_206.jpg 923,124,1229,371,0
+dataset/images/Anime_208.jpg 71,32,549,498,0
+dataset/images/Anime_209.jpg 609,144,867,397,0
+dataset/images/Anime_210.jpg 599,92,860,360,0
+dataset/images/Anime_211.jpg 261,154,414,324,0 515,179,686,343,0 820,176,965,342,0
+dataset/images/Anime_212.jpg 376,87,672,356,0
+dataset/images/Anime_213.jpg 244,91,428,265,0
+dataset/images/Anime_214.jpg 638,103,796,250,0
+dataset/images/Anime_215.jpg 605,83,868,342,0
+dataset/images/Anime_216.jpg 607,216,761,372,0
+dataset/images/Anime_217.jpg 646,299,904,571,0
+dataset/images/Anime_218.jpg 273,185,638,562,0 908,213,1205,581,0
+dataset/images/Anime_219.jpg 705,251,802,352,0
+dataset/images/Anime_22.jpg 979,127,1218,426,0
+dataset/images/Anime_220.jpg 274,74,444,231,0
+dataset/images/Anime_221.jpg 59,161,329,433,0
+dataset/images/Anime_223.jpg 414,62,653,306,0
+dataset/images/Anime_224.jpg 603,159,1011,601,0
+dataset/images/Anime_225.jpg 315,180,583,451,0
+dataset/images/Anime_226.jpg 309,94,631,400,0
+dataset/images/Anime_23.jpg 845,168,1056,331,0
+dataset/images/Anime_230.jpg 822,242,1422,878,0
+dataset/images/Anime_231.jpg 975,152,1231,413,0
+dataset/images/Anime_232.jpg 300,72,528,325,0
+dataset/images/Anime_233.jpg 478,308,556,393,0
+dataset/images/Anime_234.jpg 632,168,888,420,0 495,422,693,615,0
+dataset/images/Anime_235.jpg 116,357,225,475,0 275,430,382,530,0 459,645,536,722,0 571,624,645,700,0 656,694,736,772,0 851,274,986,414,0 1162,138,1333,312,0
+dataset/images/Anime_236.jpg 262,200,522,459,0
+dataset/images/Anime_237.jpg 729,49,989,345,0 981,255,1209,510,0
+dataset/images/Anime_238.jpg 110,72,426,366,0
+dataset/images/Anime_24.jpg 89,127,636,591,0
+dataset/images/Anime_241.jpg 385,29,681,309,0 1048,63,1375,380,0
+dataset/images/Anime_242.jpg 532,91,729,275,0
+dataset/images/Anime_243.jpg 133,149,284,306,0
+dataset/images/Anime_244.jpg 956,74,1239,344,0
+dataset/images/Anime_245.jpg 226,163,548,469,0
+dataset/images/Anime_246.jpg 120,83,332,281,0
+dataset/images/Anime_247.jpg 172,94,412,353,0
+dataset/images/Anime_248.jpg 905,139,1071,331,0
+dataset/images/Anime_251.jpg 322,159,567,413,0 666,115,897,361,0
+dataset/images/Anime_252.jpg 264,144,412,277,0
+dataset/images/Anime_253.jpg 639,121,851,357,0
+dataset/images/Anime_254.jpg 369,136,588,360,0 597,68,797,292,0
+dataset/images/Anime_255.jpg 206,107,562,467,0 1052,77,1326,392,0 679,555,989,889,0
+dataset/images/Anime_256.jpg 128,171,594,609,0
+dataset/images/Anime_257.jpg 1083,244,1269,452,0
+dataset/images/Anime_258.jpg 48,283,402,617,0 438,309,791,643,0 933,277,1289,614,0
+dataset/images/Anime_26.jpg 292,95,576,335,0
+dataset/images/Anime_260.jpg 699,74,920,323,0
+dataset/images/Anime_261.jpg 176,157,511,468,0
+dataset/images/Anime_262.jpg 721,215,961,485,0
+dataset/images/Anime_263.jpg 842,103,993,264,0
+dataset/images/Anime_264.jpg 382,138,558,298,0
+dataset/images/Anime_265.jpg 662,243,916,536,0
+dataset/images/Anime_266.jpg 166,173,359,355,0 553,176,756,365,0 881,119,1086,299,0
+dataset/images/Anime_267.jpg 202,86,372,288,0 621,351,689,423,0
+dataset/images/Anime_268.jpg 689,103,908,313,0
+dataset/images/Anime_269.jpg 548,175,1248,879,0
+dataset/images/Anime_27.jpg 749,163,1021,386,0
+dataset/images/Anime_270.jpg 381,221,603,463,0
+dataset/images/Anime_271.jpg 764,132,931,305,0
+dataset/images/Anime_272.jpg 249,149,538,418,0
+dataset/images/Anime_274.jpg 161,86,280,203,0 380,82,498,194,0
+dataset/images/Anime_275.jpg 165,116,370,326,0
+dataset/images/Anime_277.jpg 452,45,605,218,0
+dataset/images/Anime_278.jpg 925,158,1231,486,0 462,661,716,939,0
+dataset/images/Anime_279.jpg 305,142,635,538,0
+dataset/images/Anime_28.jpg 290,106,620,382,0
+dataset/images/Anime_281.jpg 749,144,913,294,0
+dataset/images/Anime_282.jpg 423,93,1266,859,0
+dataset/images/Anime_283.jpg 638,207,879,447,0
+dataset/images/Anime_284.jpg 641,185,772,308,0 773,191,891,308,0
+dataset/images/Anime_285.jpg 273,102,514,398,0
+dataset/images/Anime_286.jpg 862,35,1101,294,0
+dataset/images/Anime_287.jpg 322,145,712,574,0
+dataset/images/Anime_288.jpg 803,160,965,316,0
+dataset/images/Anime_29.jpg 235,143,382,287,0
+dataset/images/Anime_291.jpg 501,24,791,349,0
+dataset/images/Anime_292.jpg 109,278,533,710,0
+dataset/images/Anime_294.jpg 625,172,909,482,0 916,299,1192,591,0
+dataset/images/Anime_295.jpg 745,191,1029,470,0
+dataset/images/Anime_296.jpg 257,155,598,488,0
+dataset/images/Anime_297.jpg 167,135,488,429,0 813,181,1136,505,0
+dataset/images/Anime_299.jpg 338,45,554,263,0
+dataset/images/Anime_3.jpg 591,84,797,284,0
+dataset/images/Anime_30.jpg 406,205,588,413,0
+dataset/images/Anime_300.jpg 851,414,1215,772,0
+dataset/images/Anime_301.jpg 198,437,396,651,0 655,498,845,682,0 811,337,992,532,0 1165,334,1338,535,0
+dataset/images/Anime_302.jpg 864,122,1231,569,0
+dataset/images/Anime_303.jpg 834,98,1016,264,0
+dataset/images/Anime_304.jpg 645,41,859,285,0 483,510,721,724,0
+dataset/images/Anime_305.jpg 878,189,1038,385,0
+dataset/images/Anime_306.jpg 898,143,1228,478,0
+dataset/images/Anime_309.jpg 108,508,201,593,0 162,402,300,528,0 349,283,509,433,0 605,63,815,253,0 1101,148,1233,297,0 1321,338,1411,451,0
+dataset/images/Anime_31.jpg 538,119,790,357,0
+dataset/images/Anime_310.jpg 839,189,1098,441,0
+dataset/images/Anime_311.jpg 102,258,290,432,0 314,106,427,205,0 674,56,795,165,0 875,71,1064,250,0
+dataset/images/Anime_313.jpg 82,223,290,430,0 201,55,415,266,0
+dataset/images/Anime_314.jpg 59,593,216,755,0 363,185,606,429,0 1046,485,1205,637,0 1089,86,1306,277,0
+dataset/images/Anime_317.jpg 188,415,543,766,0
+dataset/images/Anime_318.jpg 285,191,488,373,0
+dataset/images/Anime_319.jpg 392,53,522,188,0
+dataset/images/Anime_32.jpg 874,141,1324,569,0
+dataset/images/Anime_320.jpg 115,107,360,358,0
+dataset/images/Anime_33.jpg 717,21,877,159,0
+dataset/images/Anime_34.jpg 212,85,401,274,0
+dataset/images/Anime_35.jpg 364,112,674,365,0
+dataset/images/Anime_36.jpg 459,144,679,338,0
+dataset/images/Anime_37.jpg 835,175,1099,431,0 809,522,1051,737,0
+dataset/images/Anime_38.jpg 418,242,727,551,0
+dataset/images/Anime_39.jpg 646,327,920,606,0
+dataset/images/Anime_4.jpg 1049,141,1400,534,0
+dataset/images/Anime_41.jpg 104,126,475,439,0
+dataset/images/Anime_42.jpg 173,182,402,385,0
+dataset/images/Anime_44.jpg 174,49,295,177,0
+dataset/images/Anime_45.jpg 280,96,507,285,0
+dataset/images/Anime_46.jpg 569,94,716,246,0
+dataset/images/Anime_47.jpg 534,83,786,372,0
+dataset/images/Anime_5.jpg 417,88,564,221,0
+dataset/images/Anime_50.jpg 442,119,618,290,0
+dataset/images/Anime_51.jpg 378,64,591,280,0
+dataset/images/Anime_53.jpg 292,123,481,307,0
+dataset/images/Anime_54.jpg 367,51,1078,644,0
+dataset/images/Anime_55.jpg 99,205,443,484,0
+dataset/images/Anime_56.jpg 1018,82,1154,231,0
+dataset/images/Anime_57.jpg 634,355,764,490,0
+dataset/images/Anime_58.jpg 896,85,1077,248,0
+dataset/images/Anime_59.jpg 293,237,555,459,0
+dataset/images/Anime_61.jpg 984,40,1180,228,0
+dataset/images/Anime_63.jpg 580,128,995,518,0
+dataset/images/Anime_64.jpg 331,123,626,393,0
+dataset/images/Anime_65.jpg 627,143,804,323,0
+dataset/images/Anime_66.jpg 291,83,485,264,0
+dataset/images/Anime_67.jpg 589,192,842,430,0
+dataset/images/Anime_68.jpg 925,82,1250,415,0
+dataset/images/Anime_69.jpg 153,58,349,258,0 686,216,799,339,0 843,57,1072,225,0
+dataset/images/Anime_71.jpg 138,525,350,724,0
+dataset/images/Anime_73.jpg 380,48,553,256,0
+dataset/images/Anime_74.jpg 535,131,901,480,0
+dataset/images/Anime_75.jpg 398,114,707,379,0
+dataset/images/Anime_77.jpg 876,180,1044,332,0
+dataset/images/Anime_78.jpg 478,169,710,328,0
+dataset/images/Anime_81.jpg 359,119,580,357,0
+dataset/images/Anime_82.jpg 795,126,990,316,0
+dataset/images/Anime_83.jpg 610,151,880,390,0
+dataset/images/Anime_84.jpg 890,161,1107,346,0
+dataset/images/Anime_85.jpg 465,258,912,641,0
+dataset/images/Anime_86.jpg 640,208,810,358,0
+dataset/images/Anime_87.jpg 618,141,783,301,0
+dataset/images/Anime_88.jpg 705,192,943,414,0
+dataset/images/Anime_89.jpg 911,139,1093,338,0
+dataset/images/Anime_91.jpg 725,209,952,462,0
+dataset/images/Anime_92.jpg 864,234,1140,508,0
+dataset/images/Anime_93.jpg 834,166,998,289,0
+dataset/images/Anime_94.jpg 698,171,844,315,0
+dataset/images/Anime_95.jpg 208,67,489,359,0
+dataset/images/Anime_96.jpg 817,52,970,223,0
+dataset/images/Anime_97.jpg 831,250,1046,440,0
+dataset/images/Anime_98.jpg 393,181,921,600,0
