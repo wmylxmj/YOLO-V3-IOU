@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Anime_287.jpg</filename>
+	<path>D:\yolo\version_001\yolo\dataset\images\Anime_287.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1460</width>
+		<height>1028</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anime face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>145</ymin>
+			<xmax>712</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+</annotation>

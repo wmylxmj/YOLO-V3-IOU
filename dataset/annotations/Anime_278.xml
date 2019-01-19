@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Anime_278.jpg</filename>
+	<path>D:\yolo\version_001\yolo\dataset\images\Anime_278.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1140</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anime face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>925</xmin>
+			<ymin>158</ymin>
+			<xmax>1231</xmax>
+			<ymax>486</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>anime face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>462</xmin>
+			<ymin>661</ymin>
+			<xmax>716</xmax>
+			<ymax>939</ymax>
+		</bndbox>
+	</object>
+</annotation>
