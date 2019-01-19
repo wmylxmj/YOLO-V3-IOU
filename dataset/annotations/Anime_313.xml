@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Anime_313.jpg</filename>
+	<path>D:\yolo\version_001\yolo\dataset\images\Anime_313.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1058</width>
+		<height>736</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anime face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>223</ymin>
+			<xmax>290</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>anime face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>55</ymin>
+			<xmax>415</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>
