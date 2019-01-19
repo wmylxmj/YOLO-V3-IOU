@@ -5,6 +5,7 @@ YOLO3 动漫人脸识别 2019-1-19
 - 运行prepare.py将数据集划为训练集，验证集和测试集
 ## 训练模型
 - 加载权重，将权重h5文件放入models文件夹
+- 最新权重下载地址：https://pan.baidu.com/s/1QKODAhRU_Rw5lpf8NcIR4g
 - 若重新开始训练，将load_pretrained置为False
 - 设置学习率，若重新训练，建议设0.001，若加载权重，建议设较小的学习率
 - 运行train.py
