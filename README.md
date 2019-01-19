@@ -9,8 +9,9 @@ YOLO3 动漫人脸识别 2019-1-19
 ## 预测
 - 运行run.py，对数据集进行预测输出，输出在outputs文件夹中
 - 预测新的图片 
-1. from predict import YOLO
-2. yolo = YOLO()
-3. img = Image.open(jpgfile)
-4. img = yolo.detect_image(img)
-5. img.show()
+1.from predict import YOLO
+2.from PIL import Image
+3.yolo = YOLO()
+4.img = Image.open(jpgfile)
+5.output = yolo.detect_image(img)
+6.output.show()
