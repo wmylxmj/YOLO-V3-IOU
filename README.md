@@ -24,5 +24,6 @@ YOLO3 动漫人脸识别 2019-1-19
 ![](./outputs/Anime_305.jpg)
 ![](./outputs/Anime_289.jpg)
 ![](./outputs/Anime_301.jpg)
+![](./outputs/Anime_258.jpg)
 ## 模型
 ![](./images/model.png)
