@@ -70,7 +70,7 @@ def create_model(input_shape, anchors, num_classes, load_pretrained=False, freez
 def train(model, input_shape, anchors, num_classes, lr=0.001, epochs=20, log_dir=save_path):
     model.compile(optimizer=keras.optimizers.Adam(lr=lr, beta_1=0.9, beta_2=0.999, epsilon=1e-8), \
                   loss={'yolo_loss': lambda y_true, y_pred: y_pred})
-    logging = TensorBoard(log_dir=log_dir)
+    logging = TensorBoard(log_dir=log_dir, update_freq="batch")
     checkpoint = ModelCheckpoint(log_dir + "ep{epoch:03d}-loss{loss:.3f}-val_loss{val_loss:.3f}.h5",
         monitor='val_loss', save_weights_only=True, save_best_only=True, period=1)
     batch_size = 2
