@@ -14,6 +14,9 @@ from keras.callbacks import TensorBoard, ModelCheckpoint, EarlyStopping
 
 from model import preprocess_true_boxes, yolo_body, \
 tiny_yolo_body, yolo_loss, get_random_data
+
+import os
+os.environ['CUDA_VISIBLE_DEVICES'] = '/gpu:0'
     
 train_path = 'infos/train.txt'
 val_path = 'infos/val.txt'
