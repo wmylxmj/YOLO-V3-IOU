@@ -69,7 +69,7 @@ def train(model, input_shape, anchors, num_classes, lr=0.001, epochs=20, log_dir
     logging = TensorBoard(log_dir=log_dir, update_freq="batch")
     checkpoint = ModelCheckpoint(log_dir + "ep{epoch:03d}-loss{loss:.3f}-val_loss{val_loss:.3f}.h5",
         monitor='val_loss', save_weights_only=True, save_best_only=True, period=1)
-    batch_size = 4
+    batch_size = 2
     with open(train_path) as f:
         train = f.readlines()
     with open(val_path) as f:
