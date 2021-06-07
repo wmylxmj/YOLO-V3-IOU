@@ -115,5 +115,5 @@ if __name__ == '__main__':
     classes = get_classes(class_path)
     anchors = get_anchors(anchor_path)
     model = create_model(input_shape, anchors, len(classes), load_pretrained=False)
-    train(model, input_shape, anchors, len(classes), lr=1e-3, epochs=2, log_dir=save_path) 
+    train(model, input_shape, anchors, len(classes), lr=1e-3, epochs=20, log_dir=save_path) 
     pass
